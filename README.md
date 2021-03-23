@@ -12,7 +12,7 @@ For example,
 ```
 add 2 with 2
 // 2 + 2
-// = 2
+// = 4
 ```
 You can add onto math problems by declaring another operator and adding another simple math problem to it.
 For example,
